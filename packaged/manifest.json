@@ -1,0 +1,8 @@
+{
+    "name": "NoExistentialCrisis",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/InfernoDragon0/COTL-NoExistentialCrisis",
+    "description": "Configurable Existential Crisis penalty for Resurrecting followers",
+    "dependencies": [
+    ]
+}
