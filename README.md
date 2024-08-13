@@ -1,22 +1,13 @@
-![image](https://i.imgur.com/oImPLMm.png)
-
 # Links
 - Read more about my mods at my [Website](https://cotlminimod.infernodragon.net/)
 - Join the discord server for support, feedback, suggestions and general modding talk: [modding discord](https://discord.gg/MUjww9ndx2)
 - If you like the mod, consider donating [here](https://ko-fi.com/infernodragon0)! Thank you for checking out the mod!
 
-# Boss Skins
-You can now apply the boss skins to normal followers! The skin selection is available in the special tab when choosing the follower form.
+# No Existential Crisis
+You can now specify the chance of which each follower gets cursed or go into an existential crisis!
 
-### Available Boss Skins
-- The one who Waits
-- Aym
-- Baal
-- Leshy
-- Heket
-- Kallamar
-- Shamura
-- Sozo
+### Config File
+Each of the values can be set from 0.0 to 1.0, the vanilla rates are 0.2 for cursed, and 0.4 for existential crisis.
 
 ## Developed by [InfernoDragon0](https://github.com/InfernoDragon0)
 
